@@ -20,7 +20,11 @@
  ### 1) Dashboard
  ![Dashboard](Screenshots/PowerBI_Dashboard.jpeg)
 
-### 2) 
-  
+### 2) Funding Trend across years
+![Funding Trend across years](Screenshots/year-wise funding trend.jpeg)
+
+### 3) Top Sectors
+![Top Sectors](Screenshots/top_industries.jpeg)
+
 
 • Vivek Jadhav
