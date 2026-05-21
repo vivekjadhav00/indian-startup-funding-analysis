@@ -24,7 +24,7 @@
 ![Funding Trend across years](Screenshots/Year_wise_funding_trend.jpeg)
 
 ### 3) Top Sectors
-![Top Sectors](Screenshots/top_industries.jpeg)
+![Top Sectors](Screenshots/Top_industries.jpeg)
 
 
 • Vivek Jadhav
