@@ -18,7 +18,7 @@
 
  ## Screenshots
  ### 1) Dashboard
-    ![Dashboard](Screenshots/Dashboard_powerBI.jpeg)
+    ![Dashboard](Screenshots/PowerBI_Dashboard.jpeg)
 
 ### 2) 
   
