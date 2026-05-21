@@ -11,9 +11,16 @@
   Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 
 • Key Insights
-  Year-wise funding trends identified
-  Top sectors receiving investments
-  Most active investors and startups
-  Funding distribution patterns visualized
+  - Analyze startup funding trends
+  - Identify top funded sectors/industries
+  - Understand yearly investment
+  - Visualise insights using Python and PowerBI
+
+ ## Screenshots
+ ### 1) Dashboard
+    ![Dashboard](Screenshots/Dashboard_PowerBI.jpeg)
+
+### 2) 
+  
 
 • Vivek Jadhav
