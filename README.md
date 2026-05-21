@@ -15,5 +15,5 @@
   Top sectors receiving investments
   Most active investors and startups
   Funding distribution patterns visualized
-
+![OG Dataset](Screenshots/Og_Dataset.jpeg)
 • Vivek Jadhav
