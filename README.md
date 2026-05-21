@@ -26,5 +26,5 @@
 ### 3) Top Sectors
 ![Top Sectors](Screenshots/Top_industries.jpeg)
 
-
+Author -
 • Vivek Jadhav
