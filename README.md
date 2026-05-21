@@ -16,6 +16,8 @@
   - Understand yearly investment
   - Visualise insights using Python and PowerBI
 
+* Dataset Source - https://www.kaggle.com/datasets/madhans17/indian-startups-funding
+
  ## Screenshots
  ### 1) Dashboard
  ![Dashboard](Screenshots/PowerBI_Dashboard.jpeg)
