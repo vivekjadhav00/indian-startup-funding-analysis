@@ -21,7 +21,7 @@
  ![Dashboard](Screenshots/PowerBI_Dashboard.jpeg)
 
 ### 2) Funding Trend across years
-![Funding Trend across years](Screenshots/year-wise funding trend.jpeg)
+![Funding Trend across years](Screenshots/Year_wise_funding_trend.jpeg)
 
 ### 3) Top Sectors
 ![Top Sectors](Screenshots/top_industries.jpeg)
