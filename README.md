@@ -1,32 +1,41 @@
-# indian-startup-funding-analysis
-• This project analyzes startup funding data to understand investment trends,
-  top sectors, and investor activity using Python-based data analysis and visualization.
+# 📊 Indian Startup Funding Analysis
 
-• Objective
-  Analyze startup funding patterns
-  Identify top-funded sectors and investors
-  Understand yearly investment trends
+## 📌 Project Overview
 
-• Tools Used
-  Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+This project analyzes Indian startup funding data to uncover investment trends, top-funded sectors, leading investors, and funding patterns across India. The dataset was cleaned and analyzed using Python (Pandas, NumPy), and an interactive dashboard was developed in Power BI to present key business insights through visualizations.
 
-• Key Insights
-  - Analyze startup funding trends
-  - Identify top funded sectors/industries
-  - Understand yearly investment
-  - Visualise insights using Python and PowerBI
+## 🎯 Objectives
 
-* Dataset Source - https://www.kaggle.com/datasets/madhans17/indian-startups-funding
+- Analyze startup funding trends.
+- Identify top-funded sectors.
+- Find leading investors.
+- Study yearly funding patterns.
+- Build an interactive Power BI dashboard.
 
- ## Screenshots
- ### 1) Dashboard
- ![Dashboard](Screenshots/PowerBI_Dashboard.jpeg)
+## 📂 Dataset
 
-### 2) Funding Trend across years
-![Funding Trend across years](Screenshots/Year_wise_funding_trend.jpeg)
+- Source: Kaggle-Indian Startup Funding Dataset
+- Records: 5,000+
+- Columns: 10
+- Format: Excel (.xlsx)
 
-### 3) Top Sectors
-![Top Sectors](Screenshots/Top_industries.jpeg)
+## 🛠️ Tools & Technologies
 
-Author -
-• Vivek Jadhav
+- Python
+- Pandas
+- NumPy
+- Eda
+- Dax
+- Power BI
+- Jupyter Notebook
+
+## 🔄 Project Workflow
+
+1. Data Collection
+2. Data Cleaning
+3. Exploratory Data Analysis (EDA)
+4. Data Visualization
+5. Power BI Dashboard
+6. Business Insights
+
+7. 
