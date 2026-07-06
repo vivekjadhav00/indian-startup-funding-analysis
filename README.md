@@ -14,7 +14,8 @@ This project analyzes Indian startup funding data to uncover investment trends, 
 
 ## 📂 Dataset
 
-- Source: Kaggle-Indian Startup Funding Dataset
+- Dataset: Kaggle-Indian Startup Funding Dataset
+- Source: https://www.kaggle.com/datasets/madhans17/indian-startups-funding
 - Records: 5,000+
 - Columns: 10
 - Format: Excel (.xlsx)
