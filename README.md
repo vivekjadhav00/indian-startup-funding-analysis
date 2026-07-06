@@ -38,4 +38,3 @@ This project analyzes Indian startup funding data to uncover investment trends, 
 5. Power BI Dashboard
 6. Business Insights
 
-7. 
