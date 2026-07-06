@@ -51,7 +51,7 @@ An interactive Power BI dashboard was created to visualize startup funding trend
 ![Top Industries by Funding](Screenshots/Top_Industries_By_Finding.jpg)
 
 #### 📌 Year-wise Funding Trend
-![Year-wise Funding Trend](Screenshots/Year_wise_funding_trend.jpeg)
+![Year-wise Funding Trend](Screenshots/Yearwise_funding_trend.jpeg)
 
 ## 💡 Key Insights
 
