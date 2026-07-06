@@ -38,3 +38,34 @@ This project analyzes Indian startup funding data to uncover investment trends, 
 5. Power BI Dashboard
 6. Business Insights
 
+## 📈 Power BI Dashboard
+
+An interactive Power BI dashboard was created to visualize startup funding trends and support data-driven insights.
+
+### Dashboard Preview
+
+#### 📌 Dashboard Overview
+![Power BI Dashboard](Screenshots/PowerBI_Dashboard.jpeg)
+
+#### 📌 Top Industries by Funding
+![Top Industries by Funding](Screenshots/Top_Industries_By_Finding.jpg)
+
+#### 📌 Year-wise Funding Trend
+![Year-wise Funding Trend](Screenshots/Year_wise_funding_trend.jpeg)
+
+## 💡 Key Insights
+
+- Identified the top-funded startup industries in India.
+- Analyzed funding trends across different years.
+- Found the cities attracting the highest startup investments.
+- Identified the most active investors and funding rounds.
+- Developed an interactive Power BI dashboard to visualize startup funding trends and support data-driven decision-making.
+
+- ## 👨‍💻 Author
+
+**Vivek Jadhav**
+
+- 📧 Email: vivekjd00@gmail.com
+
+
+-Updated README with professional project documentation.
