@@ -27,7 +27,6 @@ This project analyzes Indian startup funding data to uncover investment trends, 
 - NumPy
 - Matplotlib
 - Eda
-- scikit-learn
 - Dax
 - Power BI
 - Jupyter Notebook
